@@ -204,11 +204,11 @@ screenshots/
 └── sections-preview.png
 ```
 
-Example:
+## 📸 Screenshots
 
-```md
-![Desktop Preview](./screenshots/desktop-home.png)
-```
+### Desktop Preview
+
+<img src="./Screenshots/desktop-home.png" alt="Apex Construction Group Desktop Preview" width="100%">
 
 ---
 
